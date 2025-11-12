@@ -55,13 +55,18 @@ loyalty and spending power, Recency is the most actionable metric for
 marketing — it helps prioritize timely, targeted communication to maximize
 campaign effectiveness and prevent customer churn.
 - Some recommendations for each segment customers group as below:
-  | Segments | Characteristics | Recommendations |
-  | -------- | --------------- | --------------- |
-  | Active Customers | High purchase frequency and recency, strong engagement with the brand | Maintain engagement through exclusive offers, early access, and personalized loyalty programs to retain their high-value contribution |
+  
+
+| **Segments** | **Characteristics** | **Recommendations** |
+|:----------------------------|:---------------------------|:----------------------------|
+| **Active Customers** <br> • Champions <br> • Loyal <br> • Potential Loyalists | High purchase frequency and recency, strong engagement with the brand. | Maintain engagement through exclusive offers, early access, and personalized loyalty programs to retain their high-value contribution. |
+| **At-Risk Customers** <br> • Need Attention <br> • About to Sleep <br> • At Risk | Declining purchase frequency and recency, showing early signs of disengagement. | Use targeted win-back campaigns, personalized discounts, and reminders to re-engage them before churn increases. |
+| **Inactive Customers** <br> • Hibernating <br> • Lost Customers | Very low or no recent activity, likely churned. | Launch reactivation campaigns with strong incentives or gather feedback to understand why they left. |
+
    
  
 | **Segments** | **Characteristics** | **Recommendations** |
-|---------------|----------------------|----------------------|
+|-------------------------|---------------|---------------|
 | **Active Customers** <br> • Champions <br> • Loyal <br> • Potential Loyalists | High purchase frequency and recency, strong engagement with the brand. | Maintain engagement through exclusive offers, early access, and personalized loyalty programs to retain their high-value contribution. |
 | **At-Risk Customers** <br> • Need Attention <br> • About to Sleep <br> • At Risk | Declining purchase frequency and recency, showing early signs of disengagement. | Use targeted win-back campaigns, personalized discounts, and reminders to re-engage them before churn increases. |
 | **Inactive Customers** <br> • Hibernating <br> • Lost Customers | Very low or no recent activity, likely churned. | Launch reactivation campaigns with strong incentives or gather feedback to understand why they left. |
