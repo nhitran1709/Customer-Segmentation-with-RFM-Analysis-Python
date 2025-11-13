@@ -5,22 +5,29 @@
   - ***Recency***: measures how recently a customer has made a purchase.
   - ***Frequency***: measures how often a customer has made purchases.
   - ***Monetary***: measures the total amount of money a customer has spent on purchases.
-    
+   <img width="919" height="475" alt="Image" src="https://github.com/user-attachments/assets/815f58b2-d524-4b10-b573-c8ca48272674" />
+   
+                                          Photo from Ambassador
+
 - Based on the RFM model, customers were segmented into distinct groups according to their purchasing behavior and engagement level.
 - Segmentation Approach
   - The RFM model assigns each customer a score for Recency (R), Frequency (F), and Monetary (M) based on their purchase history.
   - Customers were then grouped into segments using quantile-based ranking (quintile method), where higher scores indicate more recent, frequent, and valuable transactions.
   - By combining these three dimensions, we identified key behavioral segments that reflect different stages of the customer lifecycle.
 
-| Segment Name | Description |
-| ------------ | ----------- |
-| Champions | High Recency, High Frequency, High Monetary |
-| Loyal Customers | Medium Recency, High Frequency, Medium Monetary  |
-| Potential Loyalists | High Recency, Medium Frequency, Medium Monetary |
-| At-Risk Customers | Low Recency, High Frequency, High Monetary |
-| Hibernating Customers | High Recency, Low Frequency, Low Monetary |
-| New Customers | High Recency, Medium Frequency, Medium Monetary |
-| Lost Customers | Very low Recency and Frequency |
+   | Segment Name | Description |
+   | ------------ | ----------- |
+   | Champions | High Recency, High Frequency, High Monetary |
+   | Loyal Customers | Medium Recency, High Frequency, Medium Monetary  |
+   | Potential Loyalists | High Recency, Medium Frequency, Medium Monetary |
+   | At-Risk Customers | Low Recency, High Frequency, High Monetary |
+   | Hibernating Customers | High Recency, Low Frequency, Low Monetary |
+   | New Customers | High Recency, Medium Frequency, Medium Monetary |
+   | Lost Customers | Very low Recency and Frequency |
+
+   <img width="914" height="419" alt="Image" src="https://github.com/user-attachments/assets/a01098ce-8321-47c5-a0f1-52e029d64aac" />
+   
+                                                   Photo from Ambassador
 
 ### 2. Business Questions
 - SuperStore is a nationwide retail company that offers a wide range of products across categories such as office supplies, furniture, and technology. With a large and diverse customer base, SuperStore continuously aims to enhance customer engagement and loyalty through data-driven strategies.
