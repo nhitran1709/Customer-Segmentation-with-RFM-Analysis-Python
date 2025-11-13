@@ -27,7 +27,15 @@
 
    <img width="914" height="419" alt="Image" src="https://github.com/user-attachments/assets/a01098ce-8321-47c5-a0f1-52e029d64aac" />
    
-                                             Photo from Ambassador
+                                          Photo from Ambassador
+### Reference
+👉 [*Source reference*](https://blog.hubspot.com/service/rfm-analysis?utm_source=chatgpt.com)
+
+👉 [*Dataset*](https://docs.google.com/spreadsheets/d/1zHkECGy45HP4YUOkPISzLOM1pz1yBj_N/edit?gid=2090663509#gid=2090663509)
+
+👉 [*Analysis Report Version*](https://www.canva.com/design/DAG1-tzsQRE/LN66aSErRCtmNABtK2fs8g/edit)
+
+👉 If the notebook does not render properly on GitHub, you can view the full interactive version here: [*View on nbviewer*](https://nbviewer.org/github/nhitran1709/Customer-Segmentation-with-RFM-Analysis-Python/blob/main/Trần_Thị_Hồng_Nhi_%7C_RFM_analysis_project.ipynb)
 
 ### 2. Business Questions
 - SuperStore is a nationwide retail company that offers a wide range of products across categories such as office supplies, furniture, and technology. With a large and diverse customer base, SuperStore continuously aims to enhance customer engagement and loyalty through data-driven strategies.
