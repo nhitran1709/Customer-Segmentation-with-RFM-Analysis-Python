@@ -7,7 +7,7 @@
   - ***Monetary***: measures the total amount of money a customer has spent on purchases.
    <img width="919" height="475" alt="Image" src="https://github.com/user-attachments/assets/815f58b2-d524-4b10-b573-c8ca48272674" />
    
-                                          Photo from Ambassador
+                                     Photo from Ambassador
 
 - Based on the RFM model, customers were segmented into distinct groups according to their purchasing behavior and engagement level.
 - Segmentation Approach
@@ -27,7 +27,7 @@
 
    <img width="914" height="419" alt="Image" src="https://github.com/user-attachments/assets/a01098ce-8321-47c5-a0f1-52e029d64aac" />
    
-                                                   Photo from Ambassador
+                                             Photo from Ambassador
 
 ### 2. Business Questions
 - SuperStore is a nationwide retail company that offers a wide range of products across categories such as office supplies, furniture, and technology. With a large and diverse customer base, SuperStore continuously aims to enhance customer engagement and loyalty through data-driven strategies.
