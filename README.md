@@ -16,7 +16,7 @@
   - By combining these three dimensions, we identified key behavioral segments that reflect different stages of the customer lifecycle.
 
    | Segment Name | Description |
-   | ------------ | ----------- |
+   | :------------: | :-----------: |
    | Champions | High Recency, High Frequency, High Monetary |
    | Loyal Customers | Medium Recency, High Frequency, Medium Monetary  |
    | Potential Loyalists | High Recency, Medium Frequency, Medium Monetary |
@@ -57,9 +57,7 @@ markets for deeper analysis.
 
 - **Distribution of Recency, Frequency, Monetary**
 ![Image](https://github.com/user-attachments/assets/4f3852d5-1d00-4bfb-a7ff-1f29be9daae6)
-
 ![Image](https://github.com/user-attachments/assets/f71a2adc-d3bb-43b1-be67-874c186604fc)
-
 ![Image](https://github.com/user-attachments/assets/3af7daf3-4ac9-45a8-81dc-d354f41118bf)
 
   - The Frequency histogram indicates that the majority of customers have made
@@ -122,9 +120,7 @@ inactive groups, which indicates a sizeable retention risk if left unaddressed.
 
 - **Total Rev | Average Rev | Proportion of Rev by Customer Segment**
 ![Image](https://github.com/user-attachments/assets/24663acf-cfae-4991-8816-5e508953c299)
-
 ![Image](https://github.com/user-attachments/assets/d2fa0b2a-47c8-4700-a7b3-dd212a1ba627)
-
 ![Image](https://github.com/user-attachments/assets/6129a80d-b9bb-4b9a-bc8e-83e0f1321eb9)
 
   - The company’s revenue heavily depends on Champions (61%) and Loyal (12%)
