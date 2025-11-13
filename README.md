@@ -33,7 +33,7 @@
 
 👉 [*Dataset*](https://docs.google.com/spreadsheets/d/1zHkECGy45HP4YUOkPISzLOM1pz1yBj_N/edit?gid=2090663509#gid=2090663509)
 
-👉 [*Analysis Report Version*](https://www.canva.com/design/DAG1-tzsQRE/LN66aSErRCtmNABtK2fs8g/edit)
+👉 [*Analysis Report Version*](https://drive.google.com/drive/folders/1INShpN-8jFolzjVGo4O5mqR1-x9ePJXG)
 
 👉 If the notebook does not render properly on GitHub, you can view the full interactive version here: [*View on nbviewer*](https://nbviewer.org/github/nhitran1709/Customer-Segmentation-with-RFM-Analysis-Python/blob/main/Trần_Thị_Hồng_Nhi_%7C_RFM_analysis_project.ipynb)
 
