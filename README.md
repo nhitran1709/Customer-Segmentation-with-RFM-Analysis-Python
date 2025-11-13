@@ -39,7 +39,31 @@
 - Total Rev | Average Rev | Proportion of Rev by Customer Segment
 - Line Chart - Revenue Trend Over Time
 
+![Image](https://github.com/user-attachments/assets/ecaa1448-dd71-430a-9e12-a30f6b875724)
 
+![Image](https://github.com/user-attachments/assets/fa361ce8-ed0c-4005-a686-5afa3170131c)
+
+![Image](https://github.com/user-attachments/assets/4f3852d5-1d00-4bfb-a7ff-1f29be9daae6)
+
+![Image](https://github.com/user-attachments/assets/f71a2adc-d3bb-43b1-be67-874c186604fc)
+
+![Image](https://github.com/user-attachments/assets/3af7daf3-4ac9-45a8-81dc-d354f41118bf)
+
+![Image](https://github.com/user-attachments/assets/525a069a-943b-404e-8151-6c6621ee8c62)
+
+![Image](https://github.com/user-attachments/assets/528b6f81-0392-48c3-8186-d3960029c820)
+
+![Image](https://github.com/user-attachments/assets/ae5e3ead-87f9-4971-a7b3-6cacba715031)
+
+![Image](https://github.com/user-attachments/assets/08ecb637-4a1f-4daa-a39e-a17c58c6f52e)
+
+![Image](https://github.com/user-attachments/assets/24663acf-cfae-4991-8816-5e508953c299)
+
+![Image](https://github.com/user-attachments/assets/d2fa0b2a-47c8-4700-a7b3-dd212a1ba627)
+
+![Image](https://github.com/user-attachments/assets/6129a80d-b9bb-4b9a-bc8e-83e0f1321eb9)
+
+![Image](https://github.com/user-attachments/assets/be4e27ed-1ae7-4085-a050-9276aff7e230)
 
 ### 2. Non-UK Market
 - Proportion of UK vs Non-UK Revenue
